@@ -1,2 +1,3 @@
 # ansible_course
-Files for an Ansible course
+Repository for files for the course
+
